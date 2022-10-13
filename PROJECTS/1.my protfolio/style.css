@@ -1,0 +1,22 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+   color: rgb(226, 43, 171);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    height: 2%;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    border: 4px solid black;
+}
